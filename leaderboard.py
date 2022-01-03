@@ -19,6 +19,7 @@ async def fetch_messages(
     async for message in channel.history(limit=None):
         author = message.author
 
+        # If author is a bot, skip the message
         if not include_bot and author.bot:
             continue
 
