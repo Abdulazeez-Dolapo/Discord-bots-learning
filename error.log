@@ -1,0 +1,9 @@
+An error occurred when sending the message "<Message id=926099730012966912 channel=<TextChannel id=923931412481073163 name='test-channel' position=1 nsfw=False news=False category_id=923914842727936051> type=<MessageType.default: 0> author=<Member id=914625020637093889 name='abdulazeez' discriminator='5141' bot=False nick=None guild=<Guild id=923914842727936050 name='bot_learning_server' shard_id=None chunked=True member_count=3>> flags=<MessageFlags value=0>>"
+An error occurred when running the command $b99 - number_of_dice is a required argument that is missing.
+An error occurred when running the command $b99 - number_of_sides is a required argument that is missing.
+An error occurred when running the command $b99 - Command raised an exception: TypeError: 'str' object cannot be interpreted as an integer
+An error occurred when running the command $b99 - Command raised an exception: TypeError: 'str' object cannot be interpreted as an integer
+An error occurred when running the command $b99 - number_of_dice is a required argument that is missing.
+An error occurred when running the command $b99 - number_of_dice is a required argument that is missing.
+An error occurred when running the command $b99 - number_of_sides is a required argument that is missing.
+An error occurred when running the command !create-channel - Role 'admin' is required to run this command.
